@@ -1,0 +1,7 @@
+com/coviam/service/UserManager.class
+com/coviam/util/RandomGenerator.class
+com/coviam/util/GenericErrorType.class
+com/coviam/MainApplication.class
+com/coviam/controller/UserController.class
+com/coviam/entity/UserDetail.class
+com/coviam/controller/HelloController.class
